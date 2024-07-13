@@ -46,10 +46,6 @@ To get started with the Accommodation Conversion Prediction Project, follow thes
 5. **Data Visualization**: Explore the provided data visualization tools to gain insights into your conversion rates and customer behavior.
 
 
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
 ## Acknowledgments
 
 We would like to express our gratitude to the open-source community and the developers of the libraries and tools that made this project possible.
