@@ -1,9 +1,6 @@
 # Accomodation-Business-Conversion-Optimization
 
 ---
-
-# Accommodation Conversion Prediction Project
-
 ## Overview
 
 Welcome to the Accommodation Conversion Prediction Project! This project leverages a combination of Business Analytics, Machine Learning, and Natural Language Processing (NLP) techniques to tackle a critical challenge in the accommodation industry: predicting whether a customer will convert or not. By harnessing the power of data-driven insights, this project aims to help accommodation businesses optimize their conversion rates, enhance customer engagement, and ultimately drive revenue growth.
