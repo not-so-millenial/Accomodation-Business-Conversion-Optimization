@@ -48,8 +48,6 @@ To get started with the Accommodation Conversion Prediction Project, follow thes
 
 ## Acknowledgments
 
-We would like to express our gratitude to the open-source community and the developers of the libraries and tools that made this project possible.
+I would like to express my gratitude to the open-source community and the developers of the libraries and tools that made this project possible.
 
 ---
-
-Feel free to customize this readme file to provide more specific details about your project, its goals, and how others can contribute or use it.
